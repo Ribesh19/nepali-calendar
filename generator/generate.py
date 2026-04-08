@@ -35,6 +35,10 @@ def generate_ics(events: list[dict], categories: list[str]) -> bytes:
     cal.add("x-wr-calname", cal_name)
     cal.add("x-wr-caldesc", "Nepali calendar events sourced from nepalipatro.com.np")
 
+    # Hint to calendar clients: refresh once per day, deliver full file
+    cal.add("refresh-interval;value=duration", "P1D")
+    cal.add("x-published-ttl", "P1D")
+
     category_set = set(categories)
     for event in events:
         if event["category"] not in category_set:
