@@ -1,7 +1,5 @@
-import json
-import pytest
 from pathlib import Path
-from scraper.scrape import parse_month_html
+from scraper.scrape import parse_month_html, classify_event
 
 FIXTURE = Path("tests/fixtures/nepalipatro-2082-01.html").read_text(encoding="utf-8")
 
@@ -57,3 +55,37 @@ def test_international_day_classified():
     names = [e["name_ne"] for e in intl]
     # "अन्तर्राष्ट्रिय पृथ्वी दिवस" is in month 01
     assert any("पृथ्वी" in n for n in names), f"Earth Day not classified as international: {names}"
+
+
+def test_classify_event_returns_festival_by_default():
+    """By default, classify_event returns 'festival'."""
+    assert classify_event("कोई सामान्य घटना") == "festival"
+
+
+def test_classify_event_identifies_international_with_aantrik():
+    """Detects 'अन्तर्राष्ट्रिय' keyword as international_day."""
+    assert classify_event("अन्तर्राष्ट्रिय महिला दिवस") == "international_day"
+
+
+def test_classify_event_identifies_international_with_world():
+    """Detects 'विश्व' keyword as international_day."""
+    assert classify_event("विश्व स्वास्थ्य दिवस") == "international_day"
+
+
+def test_classify_event_handles_both_keywords():
+    """Should match if EITHER keyword exists."""
+    assert classify_event("some विश्व text") == "international_day"
+
+
+def test_parse_month_html_with_empty_html():
+    """Empty or minimal HTML should return empty list, not crash."""
+    empty_result = parse_month_html("")
+    assert empty_result == []
+
+
+def test_parse_month_html_with_missing_structure():
+    """HTML missing expected elements should gracefully skip them."""
+    minimal = '<html><body><div id="date-2082-01-01"></div></body></html>'
+    result = parse_month_html(minimal)
+    # Should not crash; behavior is OK if empty or partial
+    assert isinstance(result, list)

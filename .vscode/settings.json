@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^python3 -c \"\nfrom bs4 import BeautifulSoup\nfrom pathlib import Path\n\nhtml = Path\\('tests/fixtures/nepalipatro-2082-01\\.html'\\)\\.read_text\\(encoding='utf-8'\\)\nsoup = BeautifulSoup\\(html, 'lxml'\\)\n\n# Find a sample date div\nfor date_div in soup\\.find_all\\('div', id=lambda x: x and x\\.startswith\\('date-'\\)\\)\\[:1\\]:\n    print\\('Date div id:', date_div\\.get\\('id'\\)\\)\n    time_el = date_div\\.find\\('time', class_='date-value'\\)\n    if time_el:\n        print\\('Time element datetime:', time_el\\.get\\('datetime'\\)\\)\n    cell = date_div\\.parent\n    print\\('Cell classes:', cell\\.get\\('class', \\[\\]\\)\\)\n    events = cell\\.find_all\\('p', class_='event'\\)\n    print\\(f'Events in this date: \\{len\\(events\\)\\}'\\)\n    for p in events\\[:2\\]:\n        print\\('  - Event classes:', p\\.get\\('class', \\[\\]\\)\\)\n        print\\('    Text:', p\\.get_text\\(strip=True\\)\\[:50\\]\\)\n    break\n\"\n$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

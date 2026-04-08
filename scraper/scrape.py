@@ -23,6 +23,7 @@ def parse_month_html(html: str) -> list[dict]:
     (public holidays) or "event overflow-hidden normal-event" (others).
     Out-of-month filler cells have no id on the inner div — skipped automatically.
     """
+    # lxml parser: faster than html.parser, handles malformed HTML better
     soup = BeautifulSoup(html, "lxml")
     events: list[dict] = []
 
