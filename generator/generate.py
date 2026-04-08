@@ -65,7 +65,13 @@ if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("Usage: python -m generator.generate <BS_YEAR>")
         sys.exit(1)
-    year = int(sys.argv[1])
+
+    try:
+        year = int(sys.argv[1])
+    except ValueError:
+        print(f"Error: BS year must be an integer. Got: {sys.argv[1]}")
+        sys.exit(1)
+
     json_path = Path("data") / f"{year}.json"
     if not json_path.exists():
         print(f"Error: {json_path} not found. Run scraper first.")
