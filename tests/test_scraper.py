@@ -1,0 +1,59 @@
+import json
+import pytest
+from pathlib import Path
+from scraper.scrape import parse_month_html
+
+FIXTURE = Path("tests/fixtures/nepalipatro-2082-01.html").read_text(encoding="utf-8")
+
+
+def test_returns_list_of_dicts():
+    events = parse_month_html(FIXTURE)
+    assert isinstance(events, list)
+    assert len(events) > 0
+    assert all(isinstance(e, dict) for e in events)
+
+
+def test_event_has_required_keys():
+    events = parse_month_html(FIXTURE)
+    required = {"name_ne", "date_ad", "date_bs", "category"}
+    for e in events:
+        assert required.issubset(e.keys()), f"Missing keys in {e}"
+
+
+def test_public_holiday_detected():
+    events = parse_month_html(FIXTURE)
+    holidays = [e for e in events if e["category"] == "public_holiday"]
+    names = [e["name_ne"] for e in holidays]
+    assert any("नव वर्ष" in n for n in names), f"No New Year in holidays: {names}"
+
+
+def test_ad_date_format():
+    events = parse_month_html(FIXTURE)
+    new_year = next(e for e in events if "नव वर्ष" in e["name_ne"])
+    assert new_year["date_ad"] == "2025-04-14"
+
+
+def test_bs_date_format():
+    events = parse_month_html(FIXTURE)
+    new_year = next(e for e in events if "नव वर्ष" in e["name_ne"])
+    assert new_year["date_bs"] == "2082-01-01"
+
+
+def test_no_empty_event_names():
+    events = parse_month_html(FIXTURE)
+    assert all(e["name_ne"].strip() for e in events)
+
+
+def test_categories_are_valid():
+    valid = {"public_holiday", "festival", "international_day"}
+    events = parse_month_html(FIXTURE)
+    for e in events:
+        assert e["category"] in valid, f"Invalid category: {e['category']}"
+
+
+def test_international_day_classified():
+    events = parse_month_html(FIXTURE)
+    intl = [e for e in events if e["category"] == "international_day"]
+    names = [e["name_ne"] for e in intl]
+    # "अन्तर्राष्ट्रिय पृथ्वी दिवस" is in month 01
+    assert any("पृथ्वी" in n for n in names), f"Earth Day not classified as international: {names}"
