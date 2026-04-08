@@ -1,0 +1,25 @@
+{
+  "bs_year": 2083,
+  "generated_at": "2026-04-14T00:00:00+00:00",
+  "source": "https://nepalipatro.com.np",
+  "events": [
+    {
+      "name_ne": "नव वर्ष २०८३",
+      "date_ad": "2026-04-14",
+      "date_bs": "2083-01-01",
+      "category": "public_holiday"
+    },
+    {
+      "name_ne": "मातातीर्थ औंसी - आमाको मुख हेर्ने",
+      "date_ad": "2026-04-17",
+      "date_bs": "2083-01-04",
+      "category": "festival"
+    },
+    {
+      "name_ne": "विश्व सम्पदा दिवस",
+      "date_ad": "2026-04-18",
+      "date_bs": "2083-01-05",
+      "category": "international_day"
+    }
+  ]
+}
