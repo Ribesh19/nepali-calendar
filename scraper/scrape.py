@@ -1,5 +1,6 @@
 from __future__ import annotations
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 
 INTERNATIONAL_KEYWORDS = ["अन्तर्राष्ट्रिय", "विश्व"]
@@ -55,3 +56,18 @@ def parse_month_html(html: str) -> list[dict]:
             )
 
     return events
+
+
+def fetch_month_html(year: int, month: int) -> str:
+    """
+    Render https://nepalipatro.com.np/calendar/bs/YYYY-MM with a headless
+    Chromium browser and return the page HTML after JS has run.
+    """
+    url = f"https://nepalipatro.com.np/calendar/bs/{year}-{month:02d}"
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        page.goto(url, wait_until="networkidle", timeout=30_000)
+        html = page.content()
+        browser.close()
+    return html

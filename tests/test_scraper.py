@@ -89,3 +89,19 @@ def test_parse_month_html_with_missing_structure():
     result = parse_month_html(minimal)
     # Should not crash; behavior is OK if empty or partial
     assert isinstance(result, list)
+
+
+from scraper.scrape import fetch_month_html
+
+
+def test_fetch_month_html_returns_html_string():
+    """Live network test — requires internet. Fetches Baisakh 2082 page."""
+    html = fetch_month_html(2082, 1)
+    assert isinstance(html, str)
+    assert 'id="date-2082-01-' in html
+
+
+def test_fetch_month_html_contains_events():
+    html = fetch_month_html(2082, 1)
+    events = parse_month_html(html)
+    assert len(events) > 10
