@@ -105,3 +105,26 @@ def test_fetch_month_html_contains_events():
     html = fetch_month_html(2082, 1)
     events = parse_month_html(html)
     assert len(events) > 10
+
+
+import json
+from pathlib import Path
+from scraper.scrape import scrape_year
+
+
+def test_scrape_year_writes_json(tmp_path, monkeypatch):
+    """Unit test — monkeypatches fetch_month_html to avoid network calls."""
+    import scraper.scrape as m
+
+    fixture_html = Path("tests/fixtures/nepalipatro-2082-01.html").read_text(encoding="utf-8")
+    monkeypatch.setattr(m, "fetch_month_html", lambda year, month: fixture_html)
+
+    out_path = tmp_path / "data" / "2082.json"
+    out_path.parent.mkdir()
+    scrape_year(2082, data_dir=str(tmp_path / "data"))
+
+    assert out_path.exists()
+    data = json.loads(out_path.read_text(encoding="utf-8"))
+    assert data["bs_year"] == 2082
+    assert isinstance(data["events"], list)
+    assert len(data["events"]) > 0
