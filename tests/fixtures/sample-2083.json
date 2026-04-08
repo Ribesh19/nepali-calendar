@@ -5,18 +5,28 @@
   "events": [
     {
       "name_ne": "नव वर्ष २०८३",
+      "name_en": "Nepali New Year 2083",
       "date_ad": "2026-04-14",
       "date_bs": "2083-01-01",
       "category": "public_holiday"
     },
     {
-      "name_ne": "मातातीर्थ औंसी - आमाको मुख हेर्ने",
-      "date_ad": "2026-04-17",
-      "date_bs": "2083-01-04",
+      "name_ne": "बकर ईद",
+      "name_en": "Eid al-Adha (Bakr Eid)",
+      "date_ad": "2026-05-20",
+      "date_bs": "2083-02-06",
       "category": "festival"
     },
     {
+      "name_ne": "मातातीर्थ औंसी - आमाको मुख हेर्ने",
+      "name_en": "Mother's Day (Mata Tirtha Aunsi)",
+      "date_ad": "2026-04-17",
+      "date_bs": "2083-01-04",
+      "category": "optional_holiday"
+    },
+    {
       "name_ne": "विश्व सम्पदा दिवस",
+      "name_en": "World Heritage Day",
       "date_ad": "2026-04-18",
       "date_bs": "2083-01-05",
       "category": "international_day"

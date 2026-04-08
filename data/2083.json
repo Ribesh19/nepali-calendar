@@ -4,1486 +4,1733 @@
   "source": "https://nepalipatro.com.np",
   "events": [
     {
-      "name_ne": "नववर्षारम्भ",
+      "name_ne": "नव वर्षा",
       "date_ad": "2026-04-14",
       "date_bs": "2083-01-01",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Nepali New Year 2083"
     },
     {
       "name_ne": "टोखा चन्देश्वरी जात्रा",
       "date_ad": "2026-04-15",
       "date_bs": "2083-01-02",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Tokha Chandeshwari Jatra"
     },
     {
       "name_ne": "माताति च:ह्रे पूजा",
       "date_ad": "2026-04-16",
       "date_bs": "2083-01-03",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Matati Chahre Puja"
     },
     {
       "name_ne": "मातातीर्थ औंसी - आमाको मुख हेर्ने",
       "date_ad": "2026-04-17",
       "date_bs": "2083-01-04",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Mother's Day (Mata Tirtha Aunsi)"
     },
     {
       "name_ne": "बिस्का जात्रा समाप्ति",
       "date_ad": "2026-04-18",
       "date_bs": "2083-01-05",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Bisket Jatra Ends (Bhaktapur)"
     },
     {
       "name_ne": "परशुराम जयन्ती",
       "date_ad": "2026-04-19",
       "date_bs": "2083-01-06",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Parshuram Jayanti"
     },
     {
       "name_ne": "अक्षय तृतीया",
       "date_ad": "2026-04-20",
       "date_bs": "2083-01-07",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Akshay Tritiya"
     },
     {
       "name_ne": "ल.पु. मत्स्येन्द्रनाथ रथ जात्रा सुरु",
       "date_ad": "2026-04-21",
       "date_bs": "2083-01-08",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Lalitpur Matsyendranath Rath Jatra Begins"
     },
     {
       "name_ne": "आद्यगुरु शंकराचार्य जयन्ती",
       "date_ad": "2026-04-22",
       "date_bs": "2083-01-09",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Adi Shankaracharya Jayanti"
     },
     {
       "name_ne": "गंगोत्पत्त / गङ्गा सप्तमी",
       "date_ad": "2026-04-23",
       "date_bs": "2083-01-10",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Gangotpatti (Ganga Saptami)"
     },
     {
       "name_ne": "लोकतन्त्र दिवस",
       "date_ad": "2026-04-24",
       "date_bs": "2083-01-11",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Democracy Day Anniversary"
     },
     {
       "name_ne": "सीता जयन्ती",
       "date_ad": "2026-04-25",
       "date_bs": "2083-01-12",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Sita Jayanti"
     },
     {
       "name_ne": "विश्व बौद्धिक सम्पत्ति दिवस",
       "date_ad": "2026-04-26",
       "date_bs": "2083-01-13",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Intellectual Property Day"
     },
     {
       "name_ne": "मोहिनी एकादशी व्रत",
       "date_ad": "2026-04-27",
       "date_bs": "2083-01-14",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Mohini Ekadashi Fast"
     },
     {
       "name_ne": "राष्ट्रिय चिया दिवस",
       "date_ad": "2026-04-28",
       "date_bs": "2083-01-15",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "National Tea Day"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय नृत्य दिवस",
       "date_ad": "2026-04-29",
       "date_bs": "2083-01-16",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Dance Day"
     },
     {
       "name_ne": "नृसिंह जयन्ती",
       "date_ad": "2026-04-30",
       "date_bs": "2083-01-17",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Nrusinha Jayanti"
     },
     {
       "name_ne": "बुद्ध जयन्ती",
       "date_ad": "2026-05-01",
       "date_bs": "2083-01-18",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Buddha Jayanti"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय प्रेस स्वतन्त्रता दिवस",
       "date_ad": "2026-05-03",
       "date_bs": "2083-01-20",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Press Freedom Day"
     },
     {
       "name_ne": "मंगल चौथी ब्रत",
       "date_ad": "2026-05-05",
       "date_bs": "2083-01-22",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Mangal Chauthi Fast"
     },
     {
       "name_ne": "समाज सुधार दिवस (किराँत)",
       "date_ad": "2026-05-07",
       "date_bs": "2083-01-24",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Social Reform Day (Kirat)"
     },
     {
       "name_ne": "रेडक्रस दिवस",
       "date_ad": "2026-05-08",
       "date_bs": "2083-01-25",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Red Cross Day"
     },
     {
       "name_ne": "कानून दिवस",
       "date_ad": "2026-05-09",
       "date_bs": "2083-01-26",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Law Day"
     },
     {
       "name_ne": "माहिला ज्योतिस संघ स्थापना",
       "date_ad": "2026-05-11",
       "date_bs": "2083-01-28",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Mahila Jyotis Sangh Foundation Day"
     },
     {
       "name_ne": "विश्व नर्स दिवस",
       "date_ad": "2026-05-12",
       "date_bs": "2083-01-29",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Nurses Day"
     },
     {
       "name_ne": "अपरा एकादशी व्रत",
       "date_ad": "2026-05-13",
       "date_bs": "2083-01-30",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Apara Ekadashi Fast"
     },
     {
       "name_ne": "सिथि च:ह्रे पूजा",
       "date_ad": "2026-05-15",
       "date_bs": "2083-02-01",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Sithinakha Puja"
     },
     {
       "name_ne": "शनि जयन्ती",
       "date_ad": "2026-05-16",
       "date_bs": "2083-02-02",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Shani Jayanti"
     },
     {
       "name_ne": "गोसाइँकुण्ड-स्नान आरम्भ",
       "date_ad": "2026-05-17",
       "date_bs": "2083-02-03",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Gosainkunda Bath Season Begins"
     },
     {
       "name_ne": "बकर ईद",
       "date_ad": "2026-05-20",
       "date_bs": "2083-02-06",
-      "category": "festival"
+      "category": "festival",
+      "name_en": "Eid al-Adha (Bakr Eid)"
     },
     {
       "name_ne": "विश्व संस्कृति दिवस",
       "date_ad": "2026-05-21",
       "date_bs": "2083-02-07",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Culture Day"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय जैविक विविधता दिवस",
       "date_ad": "2026-05-22",
       "date_bs": "2083-02-08",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Day for Biological Diversity"
     },
     {
       "name_ne": "युगकवि सिद्धिचरण श्रेष्ठ जन्म-जयन्ति",
       "date_ad": "2026-05-23",
       "date_bs": "2083-02-09",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Siddhicharan Shrestha Birth Anniversary"
     },
     {
       "name_ne": "गोसाइँकुण्ड स्नान समाप्ति",
       "date_ad": "2026-05-26",
       "date_bs": "2083-02-12",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Gosainkunda Bath Season Ends"
     },
     {
       "name_ne": "विश्व महिला स्वास्थ्य दिवस",
       "date_ad": "2026-05-28",
       "date_bs": "2083-02-14",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Women's Health Day"
     },
     {
       "name_ne": "राष्ट्रिय गणतन्त्र दिवस",
       "date_ad": "2026-05-29",
       "date_bs": "2083-02-15",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Republic Day"
     },
     {
       "name_ne": "पूर्णिमाव्रत",
       "date_ad": "2026-05-30",
       "date_bs": "2083-02-16",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Full Moon Fast (Purnima)"
     },
     {
       "name_ne": "विश्व धुम्रपान विरुद्धको दिवस",
       "date_ad": "2026-05-31",
       "date_bs": "2083-02-17",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World No Tobacco Day"
     },
     {
       "name_ne": "वन उपभोक्ता दिवस",
       "date_ad": "2026-06-01",
       "date_bs": "2083-02-18",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Forest User Day"
     },
     {
       "name_ne": "विश्व साइकल दिवस",
       "date_ad": "2026-06-03",
       "date_bs": "2083-02-20",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Bicycle Day"
     },
     {
       "name_ne": "जातीय भेदभाव तथा छुवाछूत उन्मूलन दिवस",
       "date_ad": "2026-06-04",
       "date_bs": "2083-02-21",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Anti-Caste Discrimination Day"
     },
     {
       "name_ne": "विश्व वातावरण दिवस",
       "date_ad": "2026-06-05",
       "date_bs": "2083-02-22",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Environment Day"
     },
     {
       "name_ne": "रवि सप्तमी ब्रत",
       "date_ad": "2026-06-07",
       "date_bs": "2083-02-24",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Rabi Saptami Fast"
     },
     {
       "name_ne": "विश्व महासागर दिवस",
       "date_ad": "2026-06-08",
       "date_bs": "2083-02-25",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Oceans Day"
     },
     {
       "name_ne": "बालश्रमविरुद्धको दिवस",
       "date_ad": "2026-06-12",
       "date_bs": "2083-02-29",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Anti-Child Labour Day"
     },
     {
       "name_ne": "विश्व रक्तदाता दिवस",
       "date_ad": "2026-06-14",
       "date_bs": "2083-02-31",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Blood Donor Day"
     },
     {
       "name_ne": "सोमवारे औंसी",
       "date_ad": "2026-06-15",
       "date_bs": "2083-03-01",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "New Moon Day (Somware Aunsi)"
     },
     {
       "name_ne": "विश्व खडेरी राेकथाम दिवस",
       "date_ad": "2026-06-17",
       "date_bs": "2083-03-03",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Day to Combat Desertification"
     },
     {
       "name_ne": "सिथिनखः",
       "date_ad": "2026-06-20",
       "date_bs": "2083-03-06",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Sithinakha Festival"
     },
     {
       "name_ne": "विश्व योग दिवस",
       "date_ad": "2026-06-21",
       "date_bs": "2083-03-07",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Yoga Day"
     },
     {
       "name_ne": "वायु अष्टमी",
       "date_ad": "2026-06-22",
       "date_bs": "2083-03-08",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Wayu Asthami"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय ओलम्पिक दिवस",
       "date_ad": "2026-06-23",
       "date_bs": "2083-03-09",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Olympic Day"
     },
     {
       "name_ne": "स्मार्तको निर्जला एकादशी व्रत",
       "date_ad": "2026-06-25",
       "date_bs": "2083-03-11",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Nirjala Ekadashi Fast"
     },
     {
       "name_ne": "विश्व लागूपदार्थ ओसार-पसार विरुद्धको दिवस",
       "date_ad": "2026-06-26",
       "date_bs": "2083-03-12",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Day Against Drug Trafficking"
     },
     {
       "name_ne": "शनि प्रदोष व्रत",
       "date_ad": "2026-06-27",
       "date_bs": "2083-03-13",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Shani Pradosh Fast"
     },
     {
       "name_ne": "मष्ट पूर्णिमा",
       "date_ad": "2026-06-29",
       "date_bs": "2083-03-15",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Mastha Purnima"
     },
     {
       "name_ne": "विश्व खेलकुद पत्रकार दिवस",
       "date_ad": "2026-07-02",
       "date_bs": "2083-03-18",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Sports Journalists Day"
     },
     {
       "name_ne": "भल-भल अष्टमी",
       "date_ad": "2026-07-08",
       "date_bs": "2083-03-24",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Bhal-Bhal Asthami"
     },
     {
       "name_ne": "नक्वाःदिसि",
       "date_ad": "2026-07-09",
       "date_bs": "2083-03-25",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Nakwa Disi"
     },
     {
       "name_ne": "योगिनी एकादशी व्रत",
       "date_ad": "2026-07-10",
       "date_bs": "2083-03-26",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Yogini Ekadashi Fast"
     },
     {
       "name_ne": "वैष्णवहरुको योगिनी एकादशी व्रत",
       "date_ad": "2026-07-11",
       "date_bs": "2083-03-27",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Yogini Ekadashi Fast (Vaishnavas)"
     },
     {
       "name_ne": "दिलाच:ह्रे पूजा",
       "date_ad": "2026-07-13",
       "date_bs": "2083-03-29",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Dila Chahre Puja"
     },
     {
       "name_ne": "जगन्नाथ रथ जात्रा",
       "date_ad": "2026-07-16",
       "date_bs": "2083-03-32",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Jagannath Rath Jatra"
     },
     {
       "name_ne": "लूतो फाल्ने",
       "date_ad": "2026-07-17",
       "date_bs": "2083-04-01",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Luto Phalne (New Year Cleansing)"
     },
     {
       "name_ne": "कमैया मुक्ति दिवस",
       "date_ad": "2026-07-18",
       "date_bs": "2083-04-02",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Kamaiya Liberation Day"
     },
     {
       "name_ne": "सूर्य पूजा",
       "date_ad": "2026-07-21",
       "date_bs": "2083-04-05",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Surya Puja (Sun Worship)"
     },
     {
       "name_ne": "विपी स्मृति दिवस",
       "date_ad": "2026-07-22",
       "date_bs": "2083-04-06",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "BP Koirala Memorial Day"
     },
     {
       "name_ne": "तुलसी रोपण",
       "date_ad": "2026-07-25",
       "date_bs": "2083-04-09",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Tulsi Planting Day"
     },
     {
       "name_ne": "तुलसीपिए",
       "date_ad": "2026-07-26",
       "date_bs": "2083-04-10",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Tulsi Piye"
     },
     {
       "name_ne": "गुरु पूर्णिमा",
       "date_ad": "2026-07-29",
       "date_bs": "2083-04-13",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Guru Purnima"
     },
     {
       "name_ne": "खीर खाने",
       "date_ad": "2026-07-31",
       "date_bs": "2083-04-15",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Kheer Khane (Rice Pudding Day)"
     },
     {
       "name_ne": "विश्व भू- संरक्षण दिवस",
       "date_ad": "2026-08-08",
       "date_bs": "2083-04-23",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Soil Conservation Day"
     },
     {
       "name_ne": "कामिका एकादशी व्रत",
       "date_ad": "2026-08-09",
       "date_bs": "2083-04-24",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Kamika Ekadashi Fast"
     },
     {
       "name_ne": "सोम प्रदोष व्रत",
       "date_ad": "2026-08-10",
       "date_bs": "2083-04-25",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Som Pradosh Fast"
     },
     {
       "name_ne": "गथाँमुग च:ह्रे पूजा",
       "date_ad": "2026-08-11",
       "date_bs": "2083-04-26",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Gathemangal Puja"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय युवा दिवस",
       "date_ad": "2026-08-12",
       "date_bs": "2083-04-27",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Youth Day"
     },
     {
       "name_ne": "गुँला पर्वशुरु",
       "date_ad": "2026-08-13",
       "date_bs": "2083-04-28",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Gunla Festival Begins (Buddhist)"
     },
     {
       "name_ne": "नाग–पञ्चमी",
       "date_ad": "2026-08-17",
       "date_bs": "2083-05-01",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Nag Panchami"
     },
     {
       "name_ne": "गोस्वामी तुलासीदास जयन्ती",
       "date_ad": "2026-08-19",
       "date_bs": "2083-05-03",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Goswami Tulsidas Jayanti"
     },
     {
       "name_ne": "यलपञ्चदान",
       "date_ad": "2026-08-20",
       "date_bs": "2083-05-04",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Yal Panchadaan"
     },
     {
       "name_ne": "पुत्रदा एकादशी",
       "date_ad": "2026-08-23",
       "date_bs": "2083-05-07",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Putrada Ekadashi Fast"
     },
     {
       "name_ne": "बहिध्यब्बोय",
       "date_ad": "2026-08-24",
       "date_bs": "2083-05-08",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Bahidyabboye"
     },
     {
       "name_ne": "राष्ट्रिय धर्मसभा दिवस",
       "date_ad": "2026-08-25",
       "date_bs": "2083-05-09",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "National Dharma Sabha Day"
     },
     {
       "name_ne": "पूर्णिमाव्रत",
       "date_ad": "2026-08-27",
       "date_bs": "2083-05-11",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Full Moon Fast (Purnima)"
     },
     {
       "name_ne": "रक्षाबन्धन",
       "date_ad": "2026-08-28",
       "date_bs": "2083-05-12",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Raksha Bandhan"
     },
     {
       "name_ne": "गाईजात्रा/सापारु (काठमाडौं उपत्यका मात्र)",
       "date_ad": "2026-08-29",
       "date_bs": "2083-05-13",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Gai Jatra (Saparu)"
     },
     {
       "name_ne": "रोपाई जात्रा",
       "date_ad": "2026-08-30",
       "date_bs": "2083-05-14",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Ropai Jatra"
     },
     {
       "name_ne": "मंगल चौथी ब्रत",
       "date_ad": "2026-09-01",
       "date_bs": "2083-05-16",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Mangal Chauthi Fast"
     },
     {
       "name_ne": "चन्द्र षष्ठी व्रत",
       "date_ad": "2026-09-02",
       "date_bs": "2083-05-17",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Chandra Shashti Fast"
     },
     {
       "name_ne": "श्रीकृष्ण जन्माष्टमी व्रत (मोहरात्री)",
       "date_ad": "2026-09-04",
       "date_bs": "2083-05-19",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Krishna Janmashtami"
     },
     {
       "name_ne": "गुँगा नवमी",
       "date_ad": "2026-09-05",
       "date_bs": "2083-05-20",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Gunga Navami"
     },
     {
       "name_ne": "निजामती सेवा दिवस (निजामती कर्मचारी मात्र)",
       "date_ad": "2026-09-07",
       "date_bs": "2083-05-22",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Civil Service Day (Civil Servants Only)"
     },
     {
       "name_ne": "विश्व शिक्षा तथा साक्षरता दिवस",
       "date_ad": "2026-09-08",
       "date_bs": "2083-05-23",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Literacy Day"
     },
     {
       "name_ne": "जुग: चह्रे पूजा",
       "date_ad": "2026-09-09",
       "date_bs": "2083-05-24",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Jug Chahre Puja"
     },
     {
       "name_ne": "निशि बार्ने",
       "date_ad": "2026-09-10",
       "date_bs": "2083-05-25",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Nishi Barne"
     },
     {
       "name_ne": "कुशेऔंसी / पिता सम्मान दिवस / बुवाको मुख हेर्ने",
       "date_ad": "2026-09-11",
       "date_bs": "2083-05-26",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Father's Day (Kushe Aunsi)"
     },
     {
       "name_ne": "गुँला पर्व समाप्त",
       "date_ad": "2026-09-12",
       "date_bs": "2083-05-27",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Gunla Festival Ends"
     },
     {
       "name_ne": "तीजको दर खाने",
       "date_ad": "2026-09-13",
       "date_bs": "2083-05-28",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Teej Eve Feast (Dar Khane)"
     },
     {
       "name_ne": "हरितालिका (तीज) व्रत (महिला मात्र)",
       "date_ad": "2026-09-14",
       "date_bs": "2083-05-29",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Teej (Haritalika Teej)"
     },
     {
       "name_ne": "ऋषिपञ्चमी व्रत (सप्तर्षी पूजा )",
       "date_ad": "2026-09-15",
       "date_bs": "2083-05-30",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Rishi Panchami Fast"
     },
     {
       "name_ne": "कोखजा विये",
       "date_ad": "2026-09-16",
       "date_bs": "2083-05-31",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Kokhaja Viye"
     },
     {
       "name_ne": "विश्वकर्मा पूजा",
       "date_ad": "2026-09-17",
       "date_bs": "2083-06-01",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "Vishwakarma Puja Day"
     },
     {
       "name_ne": "महालक्ष्मी ब्रत शुरु",
       "date_ad": "2026-09-18",
       "date_bs": "2083-06-02",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Mahalaxmi Vrat Begins"
     },
     {
       "name_ne": "संविधान दिवस",
       "date_ad": "2026-09-19",
       "date_bs": "2083-06-03",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Constitution Day"
     },
     {
       "name_ne": "अदु:ख नवमी ब्रत",
       "date_ad": "2026-09-20",
       "date_bs": "2083-06-04",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Adukha Navami Fast"
     },
     {
       "name_ne": "विश्व शान्ति दिवस",
       "date_ad": "2026-09-21",
       "date_bs": "2083-06-05",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Day of Peace"
     },
     {
       "name_ne": "हरिपरिवर्तिनी एकादशी व्रत",
       "date_ad": "2026-09-22",
       "date_bs": "2083-06-06",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Hariparivatini Ekadashi Fast"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय सांकेतिक भाषा दिवस",
       "date_ad": "2026-09-23",
       "date_bs": "2083-06-07",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Sign Language Day"
     },
     {
       "name_ne": "इन्द्रजात्रा/स्वाँछ्या (काठमाडौं उपत्यका मात्र)",
       "date_ad": "2026-09-25",
       "date_bs": "2083-06-09",
-      "category": "festival"
+      "category": "festival",
+      "name_en": "Indra Jatra (Swanchhya)"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय परमाणु हतियार निर्मूल दिवस",
       "date_ad": "2026-09-26",
       "date_bs": "2083-06-10",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "Int'l Day for Total Elimination of Nuclear Weapons"
     },
     {
       "name_ne": "सोह्रश्राद्ध प्रारम्भ",
       "date_ad": "2026-09-27",
       "date_bs": "2083-06-11",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Pitru Paksha Shraddha Begins (Ancestor Rites)"
     },
     {
       "name_ne": "रेबिजविरुद्ध दिवस",
       "date_ad": "2026-09-28",
       "date_bs": "2083-06-12",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Anti-Rabies Day"
     },
     {
       "name_ne": "विश्व हृदय दिवस",
       "date_ad": "2026-09-29",
       "date_bs": "2083-06-13",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Heart Day"
     },
     {
       "name_ne": "चौथी श्राद्ध",
       "date_ad": "2026-09-30",
       "date_bs": "2083-06-14",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Chauthi Shraddha"
     },
     {
       "name_ne": "पञ्चमी श्राद्ध",
       "date_ad": "2026-10-01",
       "date_bs": "2083-06-15",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Panchami Shraddha"
     },
     {
       "name_ne": "सप्तमी श्राद्ध",
       "date_ad": "2026-10-02",
       "date_bs": "2083-06-16",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Saptami Shraddha"
     },
     {
       "name_ne": "महालक्ष्मी व्रत समाप्त",
       "date_ad": "2026-10-03",
       "date_bs": "2083-06-17",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Mahalaxmi Vrat Ends"
     },
     {
       "name_ne": "जीवतपुतृका ब्रत/जितियापर्व  (जितियापर्व मनाउने महिला मात्र)",
       "date_ad": "2026-10-04",
       "date_bs": "2083-06-18",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Jitiya Parwa"
     },
     {
       "name_ne": "दशमी श्राद्ध",
       "date_ad": "2026-10-05",
       "date_bs": "2083-06-19",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Dashami Shraddha"
     },
     {
       "name_ne": "इन्दिरा एकादशी व्रत",
       "date_ad": "2026-10-06",
       "date_bs": "2083-06-20",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Indira Ekadashi Fast"
     },
     {
       "name_ne": "फर्पिङमा हरिशंकर यात्रा",
       "date_ad": "2026-10-07",
       "date_bs": "2083-06-21",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Farping Harishankar Yatra"
     },
     {
       "name_ne": "त्रयोदशी श्राद्ध",
       "date_ad": "2026-10-08",
       "date_bs": "2083-06-22",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Trayodashi Shraddha"
     },
     {
       "name_ne": "चतुर्दशी श्राद्ध",
       "date_ad": "2026-10-09",
       "date_bs": "2083-06-23",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Chaturdashi Shraddha"
     },
     {
       "name_ne": "विश्व मानसिक स्वास्थ दिवस",
       "date_ad": "2026-10-10",
       "date_bs": "2083-06-24",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Mental Health Day"
     },
     {
       "name_ne": "घटस्थापना (न:ला स्वने )",
       "date_ad": "2026-10-11",
       "date_bs": "2083-06-25",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Ghatasthapana (Dashain Begins)"
     },
     {
       "name_ne": "प्राकृतिक विपत्ति न्यूनीकरण दिवस",
       "date_ad": "2026-10-13",
       "date_bs": "2083-06-27",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "National Disaster Risk Reduction Day"
     },
     {
       "name_ne": "विश्व गुणस्तर दिवस",
       "date_ad": "2026-10-14",
       "date_bs": "2083-06-28",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Quality Day"
     },
     {
       "name_ne": "ग्रामीण महिला दिवस",
       "date_ad": "2026-10-15",
       "date_bs": "2083-06-29",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Rural Women's Day"
     },
     {
       "name_ne": "विश्व खाद्य दिवस",
       "date_ad": "2026-10-16",
       "date_bs": "2083-06-30",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Food Day"
     },
     {
       "name_ne": "नवपत्रिका प्रवेश (फूलपाती)",
       "date_ad": "2026-10-17",
       "date_bs": "2083-06-31",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Fulpati"
     },
     {
       "name_ne": "महाष्टमी व्रत",
       "date_ad": "2026-10-18",
       "date_bs": "2083-07-01",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Maha Asthami"
     },
     {
       "name_ne": "दशैको बिदा",
       "date_ad": "2026-10-19",
       "date_bs": "2083-07-02",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Dashain Holiday"
     },
     {
       "name_ne": "महानवमी",
       "date_ad": "2026-10-20",
       "date_bs": "2083-07-03",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Maha Navami"
     },
     {
       "name_ne": "विजया दशमी (दशैको टिका )",
       "date_ad": "2026-10-21",
       "date_bs": "2083-07-04",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Vijayadashami (Dashain Tika)"
     },
     {
       "name_ne": "दशैको बिदा",
       "date_ad": "2026-10-22",
       "date_bs": "2083-07-05",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Dashain Holiday"
     },
     {
       "name_ne": "दशैको बिदा",
       "date_ad": "2026-10-23",
       "date_bs": "2083-07-06",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Dashain Holiday"
     },
     {
       "name_ne": "विश्व विकास सूचना दिवस",
       "date_ad": "2026-10-24",
       "date_bs": "2083-07-07",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Development Information Day"
     },
     {
       "name_ne": "कोजाग्रतब्रत",
       "date_ad": "2026-10-25",
       "date_bs": "2083-07-08",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Kojagrat Fast (Full Moon)"
     },
     {
       "name_ne": "कार्तिकस्नान/आकाशदीपदानशुरु",
       "date_ad": "2026-10-26",
       "date_bs": "2083-07-09",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Kartik Bathing Season Begins"
     },
     {
       "name_ne": "विश्व शहरीकरण दिवस",
       "date_ad": "2026-10-31",
       "date_bs": "2083-07-14",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Cities Day"
     },
     {
       "name_ne": "रवि सप्तमी ब्रत",
       "date_ad": "2026-11-01",
       "date_bs": "2083-07-15",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Rabi Saptami Fast"
     },
     {
       "name_ne": "राधाष्टमी",
       "date_ad": "2026-11-02",
       "date_bs": "2083-07-16",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Radhastami"
     },
     {
       "name_ne": "युनेस्को दिवस",
       "date_ad": "2026-11-04",
       "date_bs": "2083-07-18",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "UNESCO Day"
     },
     {
       "name_ne": "रमा एकादशी ब्रत",
       "date_ad": "2026-11-05",
       "date_bs": "2083-07-19",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Rama Ekadashi Fast"
     },
     {
       "name_ne": "धनत्रयोदशी (धनतेरस)",
       "date_ad": "2026-11-06",
       "date_bs": "2083-07-20",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Dhanteras (Dhan Trayodashi)"
     },
     {
       "name_ne": "धन्वन्तरि जयन्ती",
       "date_ad": "2026-11-07",
       "date_bs": "2083-07-21",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Dhanvantari Jayanti"
     },
     {
       "name_ne": "दीपावली (लक्ष्मी पूजा)",
       "date_ad": "2026-11-08",
       "date_bs": "2083-07-22",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Laxmi Puja (Deepawali)"
     },
     {
       "name_ne": "गाई तिहार",
       "date_ad": "2026-11-09",
       "date_bs": "2083-07-23",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Gai Tihar"
     },
     {
       "name_ne": "गोरु तिहार- पूजा",
       "date_ad": "2026-11-10",
       "date_bs": "2083-07-24",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Goru Tihar & Govardhan Puja"
     },
     {
       "name_ne": "भाइटीका (किजा पूजा)",
       "date_ad": "2026-11-11",
       "date_bs": "2083-07-25",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Bhai Tika"
     },
     {
       "name_ne": "तिहार बिदा",
       "date_ad": "2026-11-12",
       "date_bs": "2083-07-26",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Tihar Holiday"
     },
     {
       "name_ne": "विश्व मधुमेह दिवस",
       "date_ad": "2026-11-14",
       "date_bs": "2083-07-28",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Diabetes Day"
     },
     {
       "name_ne": "छठपर्व",
       "date_ad": "2026-11-15",
       "date_bs": "2083-07-29",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Chhath Parwa"
     },
     {
       "name_ne": "विश्व सहिष्णुता दिवस",
       "date_ad": "2026-11-16",
       "date_bs": "2083-07-30",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Tolerance Day"
     },
     {
       "name_ne": "गोपाष्टमी",
       "date_ad": "2026-11-17",
       "date_bs": "2083-08-01",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Gopastami"
     },
     {
       "name_ne": "सत्ययुगादि",
       "date_ad": "2026-11-18",
       "date_bs": "2083-08-02",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Satya Yugadi"
     },
     {
       "name_ne": "विश्व शौचालय दिवस",
       "date_ad": "2026-11-19",
       "date_bs": "2083-08-03",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Toilet Day"
     },
     {
       "name_ne": "हरिबोधिनी एकादशी व्रत",
       "date_ad": "2026-11-20",
       "date_bs": "2083-08-04",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Haribodini Ekadashi Fast"
     },
     {
       "name_ne": "टेलिभिजन दिवस",
       "date_ad": "2026-11-21",
       "date_bs": "2083-08-05",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Television Day"
     },
     {
       "name_ne": "गुरु नानक जयन्ती (शिख धर्मावलम्बी)",
       "date_ad": "2026-11-24",
       "date_bs": "2083-08-08",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Guru Nanak Jayanti"
     },
     {
       "name_ne": "महिला हिंसा अन्त्य दिवस",
       "date_ad": "2026-11-25",
       "date_bs": "2083-08-09",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Anti-Violence Against Women Day"
     },
     {
       "name_ne": "विश्व एड्स दिवस",
       "date_ad": "2026-12-01",
       "date_bs": "2083-08-15",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World AIDS Day"
     },
     {
       "name_ne": "विश्व दासता उन्मूलन दिवस",
       "date_ad": "2026-12-02",
       "date_bs": "2083-08-16",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Day for the Abolition of Slavery"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय अपाङ्गता दिवस (विशेष क्षमताभएकाहरु मात्र)",
       "date_ad": "2026-12-03",
       "date_bs": "2083-08-17",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "International Day of Persons with Disabilities"
     },
     {
       "name_ne": "उत्पत्तिका एकादशी व्रत",
       "date_ad": "2026-12-04",
       "date_bs": "2083-08-18",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Utpatti Ekadashi Fast"
     },
     {
       "name_ne": "स्वयंसेवक दिवस",
       "date_ad": "2026-12-05",
       "date_bs": "2083-08-19",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Volunteer Day"
     },
     {
       "name_ne": "काठमाडौंको पशुपतिनाथ, खोटाङमा हलेसी महादेवको मेला",
       "date_ad": "2026-12-06",
       "date_bs": "2083-08-20",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Pashupatinath & Halesi Mahadev Fair"
     },
     {
       "name_ne": "बाला चतुर्दशी (शत बीज छर्ने)",
       "date_ad": "2026-12-07",
       "date_bs": "2083-08-21",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Bala Chaturdashi (Seed Scattering)"
     },
     {
       "name_ne": "भ्रष्टाचारविरुद्धको अन्तर्राष्ट्रिय दिवस",
       "date_ad": "2026-12-09",
       "date_bs": "2083-08-23",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Anti-Corruption Day"
     },
     {
       "name_ne": "विश्व मानव अधिकार दिवस",
       "date_ad": "2026-12-10",
       "date_bs": "2083-08-24",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Human Rights Day"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय पर्वत दिवस",
       "date_ad": "2026-12-11",
       "date_bs": "2083-08-25",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Mountain Day"
     },
     {
       "name_ne": "विवाहपञ्चमी(सर्वत्र श्री सीतारामको विवाह-उत्सव)",
       "date_ad": "2026-12-14",
       "date_bs": "2083-08-28",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Vivahapanchami (Sita-Ram Wedding)"
     },
     {
       "name_ne": "राष्ट्रिय झण्डा दिवस",
       "date_ad": "2026-12-16",
       "date_bs": "2083-09-01",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "National Flag Day"
     },
     {
       "name_ne": "बखुमद",
       "date_ad": "2026-12-17",
       "date_bs": "2083-09-02",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Bakhuma"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय आप्रवासी दिवस",
       "date_ad": "2026-12-18",
       "date_bs": "2083-09-03",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Migrants Day"
     },
     {
       "name_ne": "कीर्तिपुरमा इन्द्रायणी जात्रा",
       "date_ad": "2026-12-19",
       "date_bs": "2083-09-04",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Kirtipur Indrayani Jatra"
     },
     {
       "name_ne": "मोक्षदा एकादशी ब्रत",
       "date_ad": "2026-12-20",
       "date_bs": "2083-09-05",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Mokshadha Ekadashi Fast"
     },
     {
       "name_ne": "सोम प्रदोष व्रत",
       "date_ad": "2026-12-21",
       "date_bs": "2083-09-06",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Som Pradosh Fast"
     },
     {
       "name_ne": "दत्तात्रय जयन्ती",
       "date_ad": "2026-12-23",
       "date_bs": "2083-09-08",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Dattatreya Jayanti"
     },
     {
       "name_ne": "उँधौली पर्व",
       "date_ad": "2026-12-24",
       "date_bs": "2083-09-09",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Udhauli Festival (Kirat)"
     },
     {
       "name_ne": "क्रिसमस (इसाई धर्म मात्र)",
       "date_ad": "2026-12-25",
       "date_bs": "2083-09-10",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Christmas Day"
     },
     {
       "name_ne": "तमु (गुरुङ) ल्होसार",
       "date_ad": "2026-12-30",
       "date_bs": "2083-09-15",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Tamu (Gurung) Lhosar"
     },
     {
       "name_ne": "राष्ट्रिय मेलमिलाप दिवस",
       "date_ad": "2026-12-31",
       "date_bs": "2083-09-16",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "National Reconciliation Day"
     },
     {
       "name_ne": "नयाँ वर्ष २०२७",
       "date_ad": "2027-01-01",
       "date_bs": "2083-09-17",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "New Year 2027"
     },
     {
       "name_ne": "सफला एकादशी ब्रत",
       "date_ad": "2027-01-03",
       "date_bs": "2083-09-19",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Saphala Ekadashi Fast"
     },
     {
       "name_ne": "श्री गुरु गोविन्द सिंह जयन्ती",
       "date_ad": "2027-01-05",
       "date_bs": "2083-09-21",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Guru Gobind Singh Jayanti"
     },
     {
       "name_ne": "अरनिको स्मृति दिवस",
       "date_ad": "2027-01-07",
       "date_bs": "2083-09-23",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Arniko Memorial Day"
     },
     {
       "name_ne": "तोल ल्होसार",
       "date_ad": "2027-01-08",
       "date_bs": "2083-09-24",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Tol Lhosar"
     },
     {
       "name_ne": "पृथ्वी जयन्ती",
       "date_ad": "2027-01-11",
       "date_bs": "2083-09-27",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Prithvi Jayanti (National Unity Day)"
     },
     {
       "name_ne": "मंगल चौथी ब्रत",
       "date_ad": "2027-01-12",
       "date_bs": "2083-09-28",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Mangal Chauthi Fast"
     },
     {
       "name_ne": "राष्ट्रिय भक्का दिवस",
       "date_ad": "2027-01-13",
       "date_bs": "2083-09-29",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "National Bhakka Day"
     },
     {
       "name_ne": "माघे संक्रान्ति (घ्यौ:चाकु:सँन्हु )",
       "date_ad": "2027-01-15",
       "date_bs": "2083-10-01",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Maghe Sankranti"
     },
     {
       "name_ne": "श्री श्वेत मत्स्येन्द्रनाथ स्नान (जन बहद्य: न्हवं)",
       "date_ad": "2027-01-16",
       "date_bs": "2083-10-02",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Shwet Matsyendranath Bathing Ceremony"
     },
     {
       "name_ne": "पुत्रदा एकादशी ब्रत",
       "date_ad": "2027-01-18",
       "date_bs": "2083-10-04",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Putrada Ekadashi Fast"
     },
     {
       "name_ne": "मुस्याडुली",
       "date_ad": "2027-01-19",
       "date_bs": "2083-10-05",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Musyaduli"
     },
     {
       "name_ne": "माघस्नान आरम्भ",
       "date_ad": "2027-01-22",
       "date_bs": "2083-10-08",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Magh Bathing Season Begins"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय शिक्षा दिवस",
       "date_ad": "2027-01-24",
       "date_bs": "2083-10-10",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Education Day"
     },
     {
       "name_ne": "काशीमा (भारत) बडागणेशको उत्सब:",
       "date_ad": "2027-01-25",
       "date_bs": "2083-10-11",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Kashi Ganesh Festival"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय भन्सार दिवस",
       "date_ad": "2027-01-26",
       "date_bs": "2083-10-12",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Customs Day"
     },
     {
       "name_ne": "नेपाल नर्सिङ दिवस",
       "date_ad": "2027-01-29",
       "date_bs": "2083-10-15",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Nepal Nursing Day"
     },
     {
       "name_ne": "शहीद दिवस",
       "date_ad": "2027-01-30",
       "date_bs": "2083-10-16",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Martyrs' Day"
     },
     {
       "name_ne": "विश्व सिमसार दिवस",
       "date_ad": "2027-02-02",
       "date_bs": "2083-10-19",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Wetlands Day"
     },
     {
       "name_ne": "विश्व क्यान्सर दिवस",
       "date_ad": "2027-02-04",
       "date_bs": "2083-10-21",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Cancer Day"
     },
     {
       "name_ne": "लै च:ह्रे पूजा",
       "date_ad": "2027-02-05",
       "date_bs": "2083-10-22",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Lai Chahre Puja"
     },
     {
       "name_ne": "पशुपतिनाथको आर्यघाटमा माधवनारायण मेला",
       "date_ad": "2027-02-06",
       "date_bs": "2083-10-23",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Pashupatinath Madhavnarayan Fair"
     },
     {
       "name_ne": "सोनाम (तामाङ) ल्होसार",
       "date_ad": "2027-02-07",
       "date_bs": "2083-10-24",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Sonam (Tamang) Lhosar"
     },
     {
       "name_ne": "तिलकुन्द चतुर्थी",
       "date_ad": "2027-02-10",
       "date_bs": "2083-10-27",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Tilakunda Chaturthi"
     },
     {
       "name_ne": "श्री पञ्चमी (वसन्त श्रवण) (शिक्षण संस्थाको लागि मात्र)",
       "date_ad": "2027-02-11",
       "date_bs": "2083-10-28",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Saraswati Puja (Vasant Panchami)"
     },
     {
       "name_ne": "स्कन्द षष्ठी",
       "date_ad": "2027-02-12",
       "date_bs": "2083-10-29",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Skanda Sashti"
     },
     {
       "name_ne": "विश्व रेडियो दिवस",
       "date_ad": "2027-02-13",
       "date_bs": "2083-11-01",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Radio Day"
     },
     {
       "name_ne": "प्रणय दिवस",
       "date_ad": "2027-02-14",
       "date_bs": "2083-11-02",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Valentine's Day"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय बाल्यकाल क्यान्सर दिवस",
       "date_ad": "2027-02-15",
       "date_bs": "2083-11-03",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "International Childhood Cancer Day"
     },
     {
       "name_ne": "शल्य दशमी",
       "date_ad": "2027-02-16",
       "date_bs": "2083-11-04",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Shalya Dashami"
     },
     {
       "name_ne": "भीमा एकादशी व्रत",
       "date_ad": "2027-02-17",
       "date_bs": "2083-11-05",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Bhima Ekadashi Fast"
     },
     {
       "name_ne": "वटु (कान्तिपुर)मा माघयात्रा (सन्यादुलि)",
       "date_ad": "2027-02-18",
       "date_bs": "2083-11-06",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Magh Yatra (Vatu)"
     },
     {
       "name_ne": "राष्ट्रिय  प्रजातन्त्र दिवस",
       "date_ad": "2027-02-19",
       "date_bs": "2083-11-07",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Democracy Day"
     },
     {
       "name_ne": "श्री स्वस्थानी व्रत समाप्त",
       "date_ad": "2027-02-20",
       "date_bs": "2083-11-08",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Swasthani Vrat Ends"
     },
     {
       "name_ne": "विश्व मातृभाषा दिवस",
       "date_ad": "2027-02-21",
       "date_bs": "2083-11-09",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Mother Language Day"
     },
     {
       "name_ne": "राष्ट्रिय मगर दिवस",
       "date_ad": "2027-02-27",
       "date_bs": "2083-11-15",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "National Magar Day"
     },
     {
       "name_ne": "माझी समुदायको लदी पूजा",
       "date_ad": "2027-03-02",
       "date_bs": "2083-11-18",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Majhi Community Ladi Puja"
     },
     {
       "name_ne": "विजया एकादशी ब्रत",
       "date_ad": "2027-03-04",
       "date_bs": "2083-11-20",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Vijaya Ekadashi Fast"
     },
     {
       "name_ne": "महाशिवरात्रि व्रत",
       "date_ad": "2027-03-06",
       "date_bs": "2083-11-22",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Maha Shivaratri"
     },
     {
       "name_ne": "अन्तर्राष्ट्रिय नारी दिवस",
       "date_ad": "2027-03-08",
       "date_bs": "2083-11-24",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "International Women's Day"
     },
     {
       "name_ne": "ग्याल्पो ल्होसार",
       "date_ad": "2027-03-09",
       "date_bs": "2083-11-25",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Gyalpo Lhosar"
     },
     {
       "name_ne": "पाई डे",
       "date_ad": "2027-03-14",
       "date_bs": "2083-11-30",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Pi Day"
     },
     {
       "name_ne": "चैत्र संक्रान्ति",
       "date_ad": "2027-03-15",
       "date_bs": "2083-12-01",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Chaitra Sankranti"
     },
     {
       "name_ne": "चिरको उत्थान (चिर स्वाये)",
       "date_ad": "2027-03-16",
       "date_bs": "2083-12-02",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Chir Sthapana (Chir Swaye)"
     },
     {
       "name_ne": "आमलकी एकादशी",
       "date_ad": "2027-03-18",
       "date_bs": "2083-12-04",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Amalaki Ekadashi"
     },
     {
       "name_ne": "गोविन्द द्वादशी",
       "date_ad": "2027-03-19",
       "date_bs": "2083-12-05",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Govinda Dwadashi"
     },
     {
       "name_ne": "शनि प्रदोष व्रत",
       "date_ad": "2027-03-20",
       "date_bs": "2083-12-06",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Shani Pradosh Fast"
     },
     {
       "name_ne": "पहाडमा होली",
       "date_ad": "2027-03-21",
       "date_bs": "2083-12-07",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Holi (Hills Region)"
     },
     {
       "name_ne": "तराईमा होली",
       "date_ad": "2027-03-22",
       "date_bs": "2083-12-08",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Holi (Terai Region)"
     },
     {
       "name_ne": "विश्व मौसम दिवस",
       "date_ad": "2027-03-23",
       "date_bs": "2083-12-09",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Meteorological Day"
     },
     {
       "name_ne": "विश्व क्षयरोग दिवस",
       "date_ad": "2027-03-24",
       "date_bs": "2083-12-10",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Tuberculosis Day"
     },
     {
       "name_ne": "नाला मत्स्येन्द्रनाथ रथ यात्रा",
       "date_ad": "2027-03-25",
       "date_bs": "2083-12-11",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Nala Matsyendranath Rath Yatra"
     },
     {
       "name_ne": "आध्यात्मिक पत्रकार समाज स्थापना दिवस",
       "date_ad": "2027-03-27",
       "date_bs": "2083-12-13",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Spiritual Journalist Society Foundation Day"
     },
     {
       "name_ne": "शीतलाष्टमी",
       "date_ad": "2027-03-30",
       "date_bs": "2083-12-16",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Shitalastami"
     },
     {
       "name_ne": "विश्व मूर्ख दिवस",
       "date_ad": "2027-04-01",
       "date_bs": "2083-12-18",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "April Fools' Day (World Fool's Day)"
     },
     {
       "name_ne": "पापमोचनी एकादशी",
       "date_ad": "2027-04-02",
       "date_bs": "2083-12-19",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Papmochani Ekadashi Fast"
     },
     {
       "name_ne": "देवपत्तनमा देशोद्धार पूजा",
       "date_ad": "2027-04-03",
       "date_bs": "2083-12-20",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Devpatan Puja"
     },
     {
       "name_ne": "पिशाच चतुर्दशी (पाहाँ चःह्रे पूजा )",
       "date_ad": "2027-04-05",
       "date_bs": "2083-12-22",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Pishach Chaturdashi (Pahan Chahre Puja)"
     },
     {
       "name_ne": "घोडेजात्रा (काठमाडौं उपत्यका मात्र)",
       "date_ad": "2027-04-06",
       "date_bs": "2083-12-23",
-      "category": "public_holiday"
+      "category": "public_holiday",
+      "name_en": "Ghode Jatra"
     },
     {
       "name_ne": "विश्व स्वास्थ्य दिवस",
       "date_ad": "2027-04-07",
       "date_bs": "2083-12-24",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Health Day"
     },
     {
       "name_ne": "मत्स्यनारायण मेला",
       "date_ad": "2027-04-09",
       "date_bs": "2083-12-26",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Matsyanarayana Fair"
     },
     {
       "name_ne": "बिस्का जात्रा सुरु",
       "date_ad": "2027-04-11",
       "date_bs": "2083-12-28",
-      "category": "festival"
+      "category": "optional_holiday",
+      "name_en": "Bisket Jatra Begins (Bhaktapur)"
     },
     {
       "name_ne": "विश्व ज्योतिष महासंघ स्थापना दिवस",
       "date_ad": "2027-04-12",
       "date_bs": "2083-12-29",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "World Astrology Federation Day"
     },
     {
       "name_ne": "भक्तपुरमा विश्वध्वज-उत्थान",
       "date_ad": "2027-04-13",
       "date_bs": "2083-12-30",
-      "category": "international_day"
+      "category": "international_day",
+      "name_en": "Bhaktapur Vishwadhwaj Festival"
     }
   ]
 }

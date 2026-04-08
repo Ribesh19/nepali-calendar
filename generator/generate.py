@@ -10,14 +10,14 @@ from icalendar import Calendar, Event
 
 CALENDAR_NAMES = {
     ("public_holiday",): "Nepali Public Holidays",
-    ("public_holiday", "festival"): "Nepali Public Holidays & Festivals",
-    ("public_holiday", "festival", "international_day"): "Nepali Calendar - All Events",
+    ("public_holiday", "festival"): "Nepali Public Holidays & Festival Holidays",
+    ("public_holiday", "festival", "optional_holiday", "international_day"): "Nepali Calendar - All Events",
 }
 
 OUTPUT_FILES = [
     ("public-holidays.ics", ["public_holiday"]),
-    ("primary-events.ics", ["public_holiday", "festival"]),
-    ("all.ics", ["public_holiday", "festival", "international_day"]),
+    ("festival-holidays.ics", ["public_holiday", "festival"]),
+    ("all.ics", ["public_holiday", "festival", "optional_holiday", "international_day"]),
 ]
 
 
@@ -41,7 +41,7 @@ def generate_ics(events: list[dict], categories: list[str]) -> bytes:
             continue
         year, month, day = map(int, event["date_ad"].split("-"))
         vevent = Event()
-        vevent.add("summary", event["name_ne"])
+        vevent.add("summary", event.get("name_en") or event["name_ne"])
         vevent.add("dtstart", date(year, month, day))
         vevent.add("uid", _make_uid(event))
         vevent.add("dtstamp", datetime.now(timezone.utc))
