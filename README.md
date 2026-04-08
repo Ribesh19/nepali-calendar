@@ -8,32 +8,79 @@ All event names are in **English**. Covers BS 2083 in full: **14 April 2026 – 
 
 ## Subscription URLs
 
+Pick the file that suits you and follow the how-to for your calendar app below.
+
 | Calendar | URL | Events |
 |---|---|---|
-| Public Holidays | `https://Ribesh19.github.io/nepali-calendar/public-holidays.ics` | 40 |
-| Festival Holidays | `https://Ribesh19.github.io/nepali-calendar/festival-holidays.ics` | 47 |
-| Everything | `https://Ribesh19.github.io/nepali-calendar/all.ics` | 247 |
+| Public Holidays only | `https://Ribesh19.github.io/nepali-calendar/public-holidays.ics` | 40 |
+| Public Holidays + Festival Holidays | `https://Ribesh19.github.io/nepali-calendar/festival-holidays.ics` | 47 |
+| Everything (recommended) | `https://Ribesh19.github.io/nepali-calendar/all.ics` | 247 |
 
 ---
 
-## How to Subscribe
+## How to Add the Calendar
 
-### Outlook (Desktop — recommended for full year view)
+There are two ways to add it:
 
-1. Open Calendar → click **Add Calendar** (left sidebar)
+- **Subscribe via URL** — the calendar stays in sync automatically (calendar app re-fetches once a day). Best for ongoing use.
+- **Import a file** — a one-time snapshot. You download the .ics file and import it. No automatic updates.
+
+---
+
+### Outlook (New)
+
+**Subscribe via URL (auto-updates):**
+1. Open Calendar → click **Add Calendar** in the left sidebar
 2. Select **Subscribe from web**
-3. Paste the URL → click **Import**
-4. The full year of events loads immediately
+3. Paste the URL (e.g. `https://Ribesh19.github.io/nepali-calendar/all.ics`) → click **Import**
 
-> **If Outlook only shows events for a few months:** Right-click the subscribed calendar in the left panel → **Calendar Properties** → increase the "Download appointments for the past/future" range, or switch to **Outlook Desktop** (classic) which handles subscriptions better than the web version.
+**Import a file (one-time):**
+1. Download the .ics file from one of the URLs above (your browser will download it)
+2. Open Calendar → **Add Calendar** → **Upload from file**
+3. Browse to the downloaded file → click **Import**
+
+![Outlook Import from file](assets/outlook-import.png)
+
+> **If events only show for a few months:** Use Outlook Desktop (classic) instead of Outlook web/new — it handles subscribed calendar date ranges better. Or right-click the subscribed calendar → **Calendar Properties** and increase the future events range.
+
+---
 
 ### Google Calendar
 
+**Subscribe via URL (auto-updates):**
 1. On the left sidebar, click **+** next to "Other calendars"
 2. Select **From URL**
 3. Paste the URL → click **Add calendar**
 
-> **Note:** Google Calendar re-fetches subscribed calendars roughly every **24 hours**. You cannot force an immediate refresh. All events for the full year (Apr 2026 – Apr 2027) are in the file and will appear once synced.
+**Import a file (one-time):**
+1. Download the .ics file from one of the URLs above
+2. Open Google Calendar → click the **gear icon** (top right) → **Settings**
+3. In the left panel, click **Import & export**
+4. Under **Import**, click **Select file from your computer** → choose the downloaded .ics file
+5. Choose which calendar to add events to → click **Import**
+
+![Google Calendar Import](assets/google-import.png)
+
+> **Note:** Google Calendar re-fetches subscribed calendars roughly every **24 hours**. You cannot force an immediate refresh. All events for the full year are in the file and will appear once synced.
+
+---
+
+### Apple Calendar (Mac)
+
+**Subscribe via URL (auto-updates):**
+1. Open Calendar → **File** → **New Calendar Subscription**
+2. Paste the URL → click **Subscribe**
+3. Set **Auto-refresh** to "Every day" → click **OK**
+
+**Import a file (one-time):**
+1. Download the .ics file from one of the URLs above
+2. Open Calendar → **File** → **Import**
+3. Select the downloaded .ics file → click **Import**
+4. Choose which calendar to add the events to → click **OK**
+
+![Apple Calendar Import](assets/apple-import.jpeg)
+
+---
 
 ### Apple Calendar (iPhone / iPad)
 
@@ -41,12 +88,6 @@ All event names are in **English**. Covers BS 2083 in full: **14 April 2026 – 
 2. Tap **Add Account** → **Other**
 3. Tap **Add Subscribed Calendar**
 4. Paste the URL → tap **Next** → **Save**
-
-### Apple Calendar (Mac)
-
-1. Open Calendar → **File** → **New Calendar Subscription**
-2. Paste the URL → click **Subscribe**
-3. Set **Auto-refresh** to "Every day" → click **OK**
 
 ---
 
@@ -59,15 +100,15 @@ Official Nepali government public holidays (सार्वजनिक बि�
 - Community holidays: Lhosar (Tamang, Gurung, Gyalpo), Udhauli/Ubhauli (Kirat), Christmas, Guru Nanak Jayanti
 
 ### festival-holidays.ics — 47 events
-Everything in public-holidays.ics **plus** major festivals from Wikipedia's Nepal Festival Holidays list and notable community celebrations:
+Everything in public-holidays.ics **plus** major festivals not yet classified as official public holidays:
 - Eid al-Adha (Bakr Eid)
 - Indra Jatra (Swanchhya) — Kathmandu Valley chariot festival
-- Additional festivals from the Newari, Kirat, and other community calendars
+- Additional community and cultural festivals
 
 ### all.ics — 247 events
 Everything above **plus**:
-- **Optional cultural events:** Mother's Day (Mata Tirtha Aunsi), Father's Day (Kushe Aunsi), Nag Panchami, Guru Purnima, Teej Eve feast, Dhanteras, Gopastami, and many more
-- **Local jatras and fairs:** Bisket Jatra, Indrayani Jatra, Matsyendranath Rath Jatra, Jagannath Rath Jatra, and others
+- **Optional cultural events:** Mother's Day (Mata Tirtha Aunsi), Father's Day (Kushe Aunsi), Nag Panchami, Guru Purnima, Teej Eve feast, Dhanteras, and many more
+- **Local jatras and fairs:** Bisket Jatra, Indrayani Jatra, Matsyendranath Rath Jatra, and others
 - **Fasting days (vrats):** Ekadashi, Pradosh, and other observance days
 - **International days observed in Nepal:** World Health Day, World Environment Day, World Human Rights Day, and 49 others
 
@@ -78,7 +119,7 @@ Everything above **plus**:
 | Category | What it means | Files |
 |---|---|---|
 | `public_holiday` | Official government public holidays | All three |
-| `festival` | Wikipedia Festival Holidays (non-official) + notable exceptions | festival-holidays.ics, all.ics |
+| `festival` | Festival Holidays (non-official) + notable exceptions | festival-holidays.ics, all.ics |
 | `optional_holiday` | Cultural observances, local jatras, fasting days, civic days | all.ics only |
 | `international_day` | International days observed in Nepal | all.ics only |
 
@@ -97,7 +138,6 @@ playwright install chromium
 python -m scraper.scrape 2084
 
 # 2. Copy and adapt the enrichment script for the new year, then run it
-#    to add English names and fix categories
 python scripts/enrich_2083.py   # adapt year references inside the script
 
 # 3. Review data/2084.json — edit manually if anything looks wrong
