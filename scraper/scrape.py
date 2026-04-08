@@ -82,6 +82,9 @@ def scrape_year(bs_year: int, data_dir: str = "data") -> None:
     Fetch all 12 monthly pages for the given BS year, parse events,
     deduplicate, and write to data/YYYY.json.
     """
+    if not 956 <= bs_year <= 3177:
+        raise ValueError(f"BS year must be between 956-3177. Got: {bs_year}")
+
     all_events: list[dict] = []
     seen: set[tuple] = set()  # (date_bs, name_ne) pairs to avoid duplicates
 
@@ -89,11 +92,11 @@ def scrape_year(bs_year: int, data_dir: str = "data") -> None:
         print(f"  Fetching {bs_year}-{month:02d}...", flush=True)
         html = fetch_month_html(bs_year, month)
         month_events = parse_month_html(html)
-        for evt in month_events:
-            key = (evt["date_bs"], evt["name_ne"])
+        for event in month_events:
+            key = (event["date_bs"], event["name_ne"])
             if key not in seen:
                 seen.add(key)
-                all_events.append(evt)
+                all_events.append(event)
 
     # Sort by AD date
     all_events.sort(key=lambda e: e["date_ad"])
@@ -115,7 +118,17 @@ if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("Usage: python -m scraper.scrape <BS_YEAR>")
         sys.exit(1)
-    year = int(sys.argv[1])
+
+    try:
+        year = int(sys.argv[1])
+    except ValueError:
+        print(f"Error: BS year must be an integer. Got: {sys.argv[1]}")
+        sys.exit(1)
+
+    if not 956 <= year <= 3177:
+        print(f"Error: BS year must be between 956-3177. Got: {year}")
+        sys.exit(1)
+
     print(f"Scraping BS year {year}...")
     scrape_year(year)
     print("Done.")

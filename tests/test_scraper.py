@@ -128,3 +128,11 @@ def test_scrape_year_writes_json(tmp_path, monkeypatch):
     assert data["bs_year"] == 2082
     assert isinstance(data["events"], list)
     assert len(data["events"]) > 0
+
+    # Verify deduplication works: with 12 identical months, dedup should significantly
+    # reduce the event count (not return 12x the fixture event count)
+    fixture_events_count = len(parse_month_html(fixture_html))
+    # With deduplication, we should have far fewer events than 12 * fixture_events_count
+    # A reasonable threshold is less than 2x (to account for edge cases)
+    assert len(data["events"]) < fixture_events_count * 2, \
+        f"Deduplication may not be working: got {len(data['events'])} events from 12x{fixture_events_count} = {fixture_events_count * 12}"
